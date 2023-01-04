@@ -1,0 +1,52 @@
+Interview Questions on Jenkins  : https://www.youtube.com/watch?v=2AVp9kie6s8
+
+What is Jenkins?
+What is the difference between Jenkins and bamboo
+Define the process of Jenkins
+What are the benefits of using Jenkins?
+What are the pre-requisites for using Jenkins
+What is the relation between the Jenkins and Hudson?
+Mention some of the useful plugins in Jenkins
+How do you install Jenkins?
+What are the two components Jenkins is mainly integrated with?
+What is maven? What is the benefit of integrating maven with Jenkins?
+Mention the commands you can use to start Jenkins manually
+Which SCM tools Jenkins supports?
+How will you define post in Jenkins?
+What are the parameters in Jenkins?
+What is groovy?
+How can you clone a git repository via Jenkins?
+Explain how can setup the Jenkins job
+How to create a backup and copy files in Jenkins?
+How will you secure Jenkins
+Explain how you can deploy a custom build of a core plugin
+What you do when you see a broken build for your project in Jenkins?
+What are the various ways in which build can be scheduled in Jenkins?
+What is the use of pipeline in Jenkins?
+Explain the term Agent, post-section, Jekinsfile?
+Do you know about cloud computing? How can Jenkins fit into a cloud computing environment?
+What is the kubernetes? Can it be used with Jenkins?
+Is it possible to run automated tests on Jenkins?
+In a pipeline, the first job was successful, but the second failed. What should you do next?
+What is the use of Jenkins home directory?
+What is a backup plugin? Why it is used?
+What is the trigger?  how the repository is polled when a new commit is detected?
+How do you define parameters for a build in Jenkins?
+What are the ways to configure Jenkins node agent to communicate with Jenkins master?
+How does Jenkins authenticate users?
+How can you use a third-party tool in Jenkins?
+What are the types of pipelines in Jenkins? – CICD, Scripted & Declarative Pipeline
+What syntax does Jenkins use to schedule build job or SVN polling?
+What is DevOps and in which stage does Jenkins fit in?
+Do you know any other continuous integration tools? How is Jenkins is better than others?
+Name a Jenkins environment variable you have used in a shell script or batch file?
+What is continuous integration in Jenkins?
+How is continuous integration achieved using Jenkins?
+What is a DSL Jenkins?
+How do you create multibranch pipeline in Jenkins?
+What are the types of jobs or projects in Jenkins?
+What is blue ocean in Jenkins?
+What do you mean by pipeline as code?
+What is continuous testing?
+How to integrate git with Jenkins?
+What is the difference between continuous delivery & continuous deployment?
